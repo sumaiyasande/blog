@@ -6,10 +6,10 @@ baseurl:            "/blog"
 url:                "https://blackrockdigital.github.io"
 
 # Social Profiles
-twitter_username:   https://twitter.com/sumaiya_sande
-github_username:    https://github.com/sumaiyasande
-facebook_username:  https://www.facebook.com/sumaiya.sande
-linkedin_username:  https://www.linkedin.com/in/sumaiya-sande-842321134/
+twitter_username:   sumaiya_sande
+github_username:    sumaiyasande
+facebook_username:  sumaiya.sande
+linkedin_username:  sumaiya-sande-842321134/
 
 # Add your google-analytics ID here to activate google analytics
 google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
